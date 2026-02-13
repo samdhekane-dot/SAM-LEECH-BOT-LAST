@@ -8,9 +8,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8026664937:AAF9UH9VxK9LGRcZje4cSfxE2ojs
 
 CREDIT = os.environ.get("CREDIT", "⌯ FʀᴏɴᴛMᴀɴ | ×͜× |")
 # MongoDB Configuration
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "SAMGG")
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://livethemoment8033_db_user:<JGtqQ4wd7u4jmkjR>@uploder.stcao8f.mongodb.net/?appName=UPLODER")  # Add your own atlas db
-MONGO_URL = DATABASE_URL  # For auth system
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://ftm:ftm@cluster0.tseoajm.mongodb .net/?retryWrites=true&w=majority& appName=Cluster0")  # Add your own atlas db
+MONGO_URL = DATABASE_URL  # For auth system0
 
 # Owner and Admin Configuration
 OWNER_ID = int(os.environ.get("OWNER_ID", "8398016815"))
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
